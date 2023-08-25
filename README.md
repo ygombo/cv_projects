@@ -3,14 +3,14 @@ This repo contains small computer vision projects
 
 # Installation
 Create virtual environment:
-''' shell
+``` shell
 python -m venv cv_env
-'''
+```
 Activate virtual environment:
-''' shell
+``` shell
 source cv_env/bin/activate
-'''
+```
 Install packages:
-''' shell
+``` shell
 python pip -r requirements.txt
-'''
+```
