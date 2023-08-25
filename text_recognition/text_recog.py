@@ -9,6 +9,3 @@ text = pytesseract.image_to_string(im, config=config)
 # print text
 text = text.split('n')
 print(text)
-
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
